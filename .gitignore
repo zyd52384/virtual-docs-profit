@@ -1,0 +1,28 @@
+# WordPress standard
+wp-config.php
+wp-config-local.php
+*.log
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.sass-cache
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build
+*.map
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
